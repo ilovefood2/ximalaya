@@ -1,7 +1,7 @@
 ###############################################
 # Created by Kelvin J. 
 # Steps: 
-#		1. get item ID from ximalay website (inside of url)
+#	1. get item ID from ximalay website (inside of url)
 #       2. copy item id and replace the number in the first line
 #       3. run this script in terminal to download all mp3 files
 # Prerequisite: 
