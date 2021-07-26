@@ -3,7 +3,7 @@
 # Usage: 
 #	1. get albumId from ximalay website (inside of url) 
 #       2. run this script in terminal as following: 
-#		   ./DownloadFromXimalaya2.sh ${albumId}  
+#		   ./DownloadFromXimalaya.sh ${albumId}  
 # Prerequisite: 
 #		jp has to be installed before hand   
 ###############################################
